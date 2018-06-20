@@ -6,5 +6,6 @@ namespace ClassLibrary1
     {
 
         int A;
+        int B { get; set; }
     }
 }
