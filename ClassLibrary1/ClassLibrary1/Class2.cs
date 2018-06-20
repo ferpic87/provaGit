@@ -9,5 +9,6 @@ namespace ClassLibrary1
         int C1 { get; set; }
         String C2 { get; set; }
         int a;
+        String rullo;
     }
 }
